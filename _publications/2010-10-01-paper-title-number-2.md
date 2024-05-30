@@ -1,13 +1,13 @@
 ---
-title: "Paper Title Number 2"
+title: "Pre-Training Transformers for Fingerprinting to Improve Stress Prediction in fMRI"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/2023-07-10-paper-title-stress-prediction-fmri
+excerpt: 'This paper explores the use of pre-training transformers to improve stress prediction in fMRI data.'
+date: 2023-07-10
+venue: 'Proceedings of The 6th International Conference on Medical Imaging with Deep Learning'
+slidesurl: 'http://academicpages.github.io/files/slides_stress_prediction_fmri.pdf'
+paperurl: 'https://proceedings.mlr.press/v227/rosenman24a/rosenman24a.pdf'
+citation: 'Gony Rosenman, Itzik Malkiel, Ayam Greental, Talma Hendler, Lior Wolf. (2023). &quot;Pre-Training Transformers for Fingerprinting to Improve Stress Prediction in fMRI.&quot; <i>Medical Imaging with Deep Learning</i>. 227:212-234.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+The contents above will be part of a list of publications. If the user clicks the link for the publication, the contents of this section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
