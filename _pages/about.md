@@ -15,7 +15,6 @@ I'm a PhD candidate at the Sagol School of Neuroscience, Tel Aviv University. My
 
 ### Exploring fMRI and Transformers
 
-======
 My journey began with the ambition to leverage advanced Deep Learning techniques to analyze fMRI data. These efforts resulted in the development of the Transformer Framework for fMRI (TFF), the first application of pretraining and fine-tuning to fMRI data for psychiatric prediction tasks, benchmarked on the large HCP dataset. This approach is crucial as fMRI, with its high-dimensional input and small sample size, is prone to overfitting in prediction tasks and has lacked proper benchmarking.
 
 ### Advancing with Metric Learning
@@ -34,5 +33,3 @@ The ultimate goal driving my research is to enhance global well-being by improvi
 
 Thanks to the Sagol School of Neuroscience at Tel Aviv University, my supervisors Prof. Talma Hendler and Prof. Lior Wolf, and all my collaborators for their counsel and support.
 
-======
- configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
