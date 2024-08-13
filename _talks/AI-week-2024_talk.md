@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/2012-03-01-talk-3
 venue: "AI-Week 2024"
-date: 2023-07-11
+date: 2024-06-26
 location: "Tel Aviv University, Tel-Aviv, Israel"
 ---
 
